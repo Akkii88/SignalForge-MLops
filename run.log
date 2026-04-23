@@ -1,9 +1,9 @@
-2026-04-24 05:04:36,505 - INFO - Job started
-2026-04-24 05:04:36,506 - INFO - Config validated: seed=42, window=5, version=v1
-2026-04-24 05:04:36,506 - INFO - Set deterministic seed: 42
-2026-04-24 05:04:36,518 - INFO - Loaded 10000 rows, columns: ['timestamp', 'open', 'high', 'low', 'close', 'volume']
-2026-04-24 05:04:36,521 - INFO - Rolling mean (window=5) computed, 9996 valid signal rows
-2026-04-24 05:04:36,521 - INFO - Signal generation completed
-2026-04-24 05:04:36,523 - INFO - Signal distribution: {0.0: 5091, 1.0: 4905}
-2026-04-24 05:04:36,523 - INFO - Metrics: rows_processed=10000, signal_rate=0.4907, latency_ms=18
-2026-04-24 05:04:36,523 - INFO - Job completed successfully
+2026-04-24 05:09:49,401 - INFO - Job started
+2026-04-24 05:09:49,402 - INFO - Config validated: seed=42, window=5, version=v1
+2026-04-24 05:09:49,402 - INFO - Set deterministic seed: 42
+2026-04-24 05:09:49,415 - INFO - Loaded 10000 rows, columns: ['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-04-24 05:09:49,420 - INFO - Rolling mean (window=5) computed, 9996 valid signal rows
+2026-04-24 05:09:49,420 - INFO - Signal generation completed
+2026-04-24 05:09:49,422 - INFO - Signal distribution: {0.0: 5007, 1.0: 4989}
+2026-04-24 05:09:49,423 - INFO - Metrics: rows_processed=10000, signal_rate=0.4991, latency_ms=22
+2026-04-24 05:09:49,423 - INFO - Job completed successfully
