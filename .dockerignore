@@ -1,0 +1,8 @@
+.git
+__pycache__
+*.pyc
+.DS_Store
+.ruff_cache
+.env
+error.log
+error_metrics.json
