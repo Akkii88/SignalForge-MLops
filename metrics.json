@@ -1,9 +1,9 @@
 {
   "version": "v1",
-  "rows_processed": 15,
+  "rows_processed": 10000,
   "metric": "signal_rate",
-  "value": 0.9091,
-  "latency_ms": 19,
+  "value": 0.4907,
+  "latency_ms": 18,
   "seed": 42,
   "status": "success"
 }
